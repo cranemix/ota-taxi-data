@@ -10,7 +10,7 @@ SETUP INSTRUCTIONS:<br>
 	4. Let's install packages, run the following commands:<br>
 		a. conda install pandas<br>
 		b. conda install pyarrow<br>
-		c. conda install sqlite3<br>
+		c. conda install -c conda-forge sqlite<br>
 		d. conda install matplotlib<br>
 		e. conda uninstall pillow<br>
 		f. conda install pillow=10.0.1<br><br>
