@@ -7,8 +7,10 @@ SETUP INSTRUCTIONS:
 3. Activate your virtual environment by typing below; the name myenv should match the name of the environment you created in the previous step:
 a. for Windows: conda activate myenv
 b. for macOS and Linux:	source activate myenv
+
 4. Let's install packages, run the following commands:
-a. conda install pandas
+
+a. conda install pandas<br>
 b. conda install pyarrow
 c. conda install sqlite3
 d. conda install matplotlib
