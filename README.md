@@ -23,3 +23,6 @@ The approach in python is simple by using pandas, matplotlib and sqlite3 package
 My assumption for the project was that the data will be retrieved via Rest API, and this is also the first time I encounted the parquet file type.
 
 Thank you!
+
+![image](https://github.com/cranemix/ota-taxi-data/assets/7769820/38df74e6-905c-44b7-bc8c-f31079a8da09)
+
