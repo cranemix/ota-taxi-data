@@ -3,7 +3,7 @@ This project basically is ETL and Visualization of US yellow taxi trip daily tot
 <br><br>
 SETUP INSTRUCTIONS:<br>
 	1. Install miniconda and follow steps here: https://docs.anaconda.com/free/miniconda/miniconda-install/<br>
-	2. Create a virtual environment. Open Anaconda Prompt (Miniconda3) and type: conda create --name myenv. <br>Note: Replace myenv with the desired name for your virtual environment. Conda will create a new environment with the specified name and install a minimal set of packages.<br>
+	2. Create a virtual environment. Open Anaconda Prompt (Miniconda3) and type: <br>conda create --name myenv <br><br>Note: Replace myenv with the desired name for your virtual environment. Conda will create a new environment with the specified name and install a minimal set of packages.<br>
 	3. Activate your virtual environment by typing below; the name myenv should match the name of the environment you created in the previous step:<br>
 		a. for Windows: conda activate myenv<br>
 		b. for macOS and Linux:	source activate myenv<br>
